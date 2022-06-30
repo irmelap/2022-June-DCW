@@ -1,3 +1,6 @@
+#Ignore anything in dara folder
+data/
+
 # History files
 .Rhistory
 .Rapp.history
