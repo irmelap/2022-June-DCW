@@ -4,4 +4,5 @@ Hello World!
 
 blah blah blah
 
-a local edit
+Both a local edit and an online edit
+
